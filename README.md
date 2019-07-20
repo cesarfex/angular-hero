@@ -1,3 +1,13 @@
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cesarfex/angular-hero.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/cesarfex/angular-hero.svg)
+![GitHub issues](https://img.shields.io/github/issues/cesarfex/angular-hero.svg)
+![GitHub](https://img.shields.io/github/license/cesarfex/angular-hero.svg)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/cesarfex/angular-hero.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/cesarfex/angular-hero.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/cesarfex/angular-hero.svg)
+![Docker Stars](https://img.shields.io/docker/stars/cesarfex/angular-hero.svg)
+
+
 # AppExemplo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
