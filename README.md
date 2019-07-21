@@ -9,8 +9,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/cesarfex/angular-hero.svg)
 ![Docker Stars](https://img.shields.io/docker/stars/cesarfex/angular-hero.svg)
 [![Beerpay](https://beerpay.io/cesarfex/angular-hero/badge.svg?style=beer-square)](https://beerpay.io/cesarfex/angular-hero)  
-[![Beerpay](https://beerpay.io/cesarfex/Organizr/make-wish.svg?style=flat-square)](https://beerpay.io/cesarfex/angular-hero?focus=wish)
-
+[![Beerpay](https://beerpay.io/cesarfex/angular-hero/make-wish.svg)](https://beerpay.io/cesarfex/angular-hero)
 
 # AppExemplo
 
