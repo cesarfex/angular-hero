@@ -1,3 +1,5 @@
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/cesarfex/angular-hero.svg)](http://isitmaintained.com/project/cesarfex/angular-hero "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/cesarfex/angular-hero.svg)](http://isitmaintained.com/project/cesarfex/angular-hero "Percentage of issues still open")
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/cesarfex/angular-hero.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/cesarfex/angular-hero.svg)
 ![GitHub issues](https://img.shields.io/github/issues/cesarfex/angular-hero.svg)
